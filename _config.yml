@@ -1,6 +1,7 @@
 # things you probably want to change
 # url is the website domain url without a trailing slash
-# url: https://crouton.net
+url: localhost:4000
+baseurl: ""
 # name of website
 title: Ethan Benjamin
 description: Ethan Benjamin's Online Presence
