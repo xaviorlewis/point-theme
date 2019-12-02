@@ -12,7 +12,7 @@ I'm Ethan Benjamin. I am currently a Computer Science freshman at Carleton Unive
 - [github](https://github.com/ebenji)
 
 
-## 📍 What I’m doing now*
+## What I’m doing now:
 
 - Taking COMP1805, COMP1405, MATH1007, CGSC1001, and PHIL2001 at Carleton 
 - Hacking away at Spotiset
