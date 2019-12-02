@@ -9,9 +9,9 @@ nav-links:
   - name: Home
     url: /
   - name: About
-    url: /about
+    url: about
   - name: Blog
-    url: /blog
+    url: blog
 
 # things you probably don't want to change
 defaults:
