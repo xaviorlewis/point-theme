@@ -1,10 +1,7 @@
 # things you probably want to change
-# url is the website domain url without a trailing slash
-url: ""
-baseurl: "portfolio"
-# name of website
-title: Ethan Benjamin
-description: Ethan Benjamin's Online Presence
+url: https://crouton.net
+title: Point Theme
+description: description for search engines and social media cards
 nav-links:
   - name: Home
     url: /
