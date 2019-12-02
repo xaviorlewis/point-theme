@@ -1,5 +1,5 @@
 ---
-title: Paul Graham: Keep your Identity Small.
+title: Paul Graham- Keep your Identity Small.
 ---
 
 I finally realized today why politics and religion yield such uniquely useless discussions.
