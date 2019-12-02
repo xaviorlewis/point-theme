@@ -1,7 +1,7 @@
 # things you probably want to change
 # url is the website domain url without a trailing slash
 url: ""
-baseurl: "point-theme"
+baseurl: "portfolio"
 # name of website
 title: Ethan Benjamin
 description: Ethan Benjamin's Online Presence
