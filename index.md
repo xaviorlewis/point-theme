@@ -5,9 +5,12 @@
 
 I'm Ethan Benjamin. I am currently a Computer Science freshman at Carleton University in Ottawa, Canada. 
 
-## 👋🏻 Say hi
+## You can contact me via:
 
-You can contact me via piegons, horseback, or snail mail.
+- [email](contactethanbenjamin@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ethan-benjamin-4a3810128/)
+- [github](https://github.com/ebenji)
+
 
 ## 📍 What I’m doing now*
 
