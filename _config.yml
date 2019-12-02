@@ -12,6 +12,8 @@ nav-links:
     url: /about
   - name: Blog
     url: /blog
+  - name: Lessons
+    url: /lessons
 
 # things you probably don't want to change
 defaults:
