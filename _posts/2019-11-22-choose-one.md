@@ -1,41 +1,39 @@
 ---
-title: Choose One?
+title: Paul Graham: Keep your Identity Small.
 ---
 
-When I was eleven, I was at a youth program when a family friend came up to me. I remember he smiled and asked, “Are you a math and science person, or a history and English person?” I looked at him like a deer in headlights. I didn’t know how to answer. Though the question was merely small talk, it stuck with me. Could I be both? Neither?
+I finally realized today why politics and religion yield such uniquely useless discussions.
 
-In many ways, I’m a “science person.” During high school, I did biology research. My earliest project was related to antibiotic resistance, so this research was relevant to people’s lives, but it often took some work to make that connection clear. 
+As a rule, any mention of religion on an online forum degenerates into a religious argument. Why? Why does this happen with religion and not with Javascript or baking or other topics people talk about on forums?
 
-And I did that at science fairs. There was nothing like the moment when a grin of understanding appeared on the face of a little 5-year-old who had come to listen. I saw the same look in others who stopped by. There was an “aha!” moment where it clicked.
+What's different about religion is that people don't feel they need to have any particular expertise to have opinions about it. All they need is strongly held beliefs, and anyone can have those. No thread about Javascript will grow as fast as one about religion, because people feel they have to be over some threshold of expertise to post comments about that. But on religion everyone's an expert.
 
-I realized that as much as I loved doing science, I also loved translating science. Looking back, this wasn’t surprising. I certainly had what the family friend had called a “humanities” side.
+Then it struck me: this is the problem with politics too. Politics, like religion, is a topic where there's no threshold of expertise for expressing an opinion. All you need is strong convictions.
 
-In middle school, I self-studied Modern Greek for three years so I could understand this one Greek song… it’s a long story. Around the same time, I taught myself how to code, and I designed websites in my free time, thinking about how to communicate people’s personalities and businesses online in creative ways.
+Do religion and politics have something in common that explains this similarity? One possible explanation is that they deal with questions that have no definite answers, so there's no back pressure on people's opinions. Since no one can be proven wrong, every opinion is equally valid, and sensing this, everyone lets fly with theirs.
 
-I wanted to learn more about how to bridge science with the people that it impacts. I saw lots of examples of science communication: articles in the technology section of The New York Times, pamphlets at the doctors office, and videos on Khan Academy.
+But this isn't true. There are certainly some political questions that have definite answers, like how much a new government policy will cost. But the more precise political questions suffer the same fate as the vaguer ones.
 
-I discovered that there are people who film nature documentaries and turn research into policy. I thought it was so cool that people were doing this work! But how could I get there? Why wasn’t I learning about these careers in school?
+I think what religion and politics have in common is that they become part of people's identity, and people can never have a fruitful argument about something that's part of their identity. By definition they're partisan.
 
-In my experience as a high schooler, science communication was not accessible to me. So I decided to seek my own solution and start an organization called Science and Us. I don’t want other students to face those same obstacles: not knowing what science communication is, and not knowing how to get started with it.
+Which topics engage people's identity depends on the people, not the topic. For example, a discussion about a battle that included citizens of one or more of the countries involved would probably degenerate into a political argument. But a discussion today about a battle that took place in the Bronze Age probably wouldn't. No one would know what side to be on. So it's not politics that's the source of the trouble, but identity. When people say a discussion has degenerated into a religious war, what they really mean is that it has started to be driven mostly by people's identities. [1]
 
-I gathered a small team of high schoolers from surrounding schools. In a year and a half, we’ve held three events at local universities for over 100 middle and high school students. We’ve had dozens of invited guests, who illustrate science comics, preserve artifacts from outer space missions, and produce podcasts about technology and the future. We’ve shared our ideas with and learned from other science communicators at conferences nationwide.
+Because the point at which this happens depends on the people rather than the topic, it's a mistake to conclude that because a question tends to provoke religious wars, it must have no answer. For example, the question of the relative merits of programming languages often degenerates into a religious war, because so many programmers identify as X programmers or Y programmers. This sometimes leads people to conclude the question must be unanswerable—that all languages are equally good. Obviously that's false: anything else people make can be well or badly designed; why should this be uniquely impossible for programming languages? And indeed, you can have a fruitful discussion about the relative merits of programming languages, so long as you exclude people who respond from identity.
 
-There are other organizations doing similar work. [ComSciCon](https://comscicon.com) has workshops across the country for and by graduate students who lead science communication initiatives. [The Story Collider](https://storycollider.org) has over 50 events per year for people to share evocative stories of how science has impacted them. But the closest other science communication organization that I’ve found for high schoolers is run by a university in Hawaii.
+More generally, you can have a fruitful discussion about a topic only if it doesn't engage the identities of any of the participants. What makes politics and religion such minefields is that they engage so many people's identities. But you could in principle have a useful conversation about them with some people. And there are other topics that might seem harmless, like the relative merits of Ford and Chevy pickup trucks, that you couldn't safely talk about with others.
 
-With my organization Science and Us, my goal is to change that, and we started by hosting events. At our first event, I remember meeting an eighth grader whose parents had made her come. She was a self proclaimed theatre and art kid, ready to have a really boring day at Science and Us. But she became intrigued when a presenter began talking about using Twitter to communicate her research.
+The most intriguing thing about this theory, if it's right, is that it explains not merely which kinds of discussions to avoid, but how to have better ideas. If people can't think clearly about anything that has become part of their identity, then all other things being equal, the best plan is to let as few things into your identity as possible. [2]
 
-By the end of the day, this eighth grader excitedly applied to join our organizing team and is now our youngest member. A few months later, she voluntarily went to a talk about the science of happiness, which sparked a new interest in neuroscience for her.
+Most people reading this will already be fairly tolerant. But there is a step beyond thinking of yourself as x but tolerating y: not even to consider yourself an x. The more labels you have for yourself, the dumber they make you.
 
-The other day, I asked her, “Is neuroscience something you would’ve been interested in before Science and Us?” Her response was, “No way, Jose! Science scared me.” She still loves theatre and art, but has realized that she doesn’t have to choose a side - she can do both.
 
-What I see as the successful part of this story isn’t that science has gained another person, but rather that, for my friend, these fields are no longer closed off. Both art and science are equally valid parts of her identity, and she now feels comfortable embracing that.
 
-Science and Us is not trying to promote what many people refer to as STEAM: science, technology, engineering, art, and math. Instead, I want to take a step beyond that. Instead of crossing the boundaries that divide fields, I want to eliminate those boundaries.
+Notes
 
-I want to live in a world where we don’t feel pressured to fit into a box labeled “science person” or “humanities person.” 
+[1] When that happens, it tends to happen fast, like a core going critical. The threshold for participating goes down to zero, which brings in more people. And they tend to say incendiary things, which draw more and angrier counterarguments.
 
-I’m concerned that as we hyper-focus on pushing students into STEM fields, we forget about teaching and practicing science *communication*.
+[2] There may be some things it's a net win to include in your identity. For example, being a scientist. But arguably that is more of a placeholder than an actual label—like putting NMI on a form that asks for your middle initial—because it doesn't commit you to believing anything in particular. A scientist isn't committed to believing in natural selection in the same way a bibilical literalist is committed to rejecting it. All he's committed to is following the evidence wherever it leads.
 
-When you communicate a science topic, you’re approaching, breaking down, and explaining a complicated topic. These tools are not exclusive to science, and they help people define and solve problems using varying perspectives and a shared language.
+Considering yourself a scientist is equivalent to putting a sign in a cupboard saying "this cupboard must be kept empty." Yes, strictly speaking, you're putting something in the cupboard, but not in the ordinary sense.
 
-**Now more than ever, we need young people with a rich array of perspectives and the ability to share ideas clearly.** And this I believe will help us to solve society’s biggest problems.
+Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, and Robert Morris for reading drafts of this.
