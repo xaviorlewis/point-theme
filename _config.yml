@@ -1,13 +1,13 @@
 # things you probably want to change
 # url is the website domain url without a trailing slash
-url: ""
+url: "https://ebenji.github.io/portfolio/"
 baseurl: "portfolio"
 # name of website
 title: Ethan Benjamin
 description: Ethan Benjamin's Online Presence
 nav-links:
   - name: Home
-    url: /index
+    url: /
   - name: About
     url: /about
   - name: Blog

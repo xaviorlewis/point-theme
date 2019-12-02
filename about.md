@@ -2,4 +2,4 @@
 title: About
 ---
 
-henlo uwu
+This is the about page.
