@@ -3,13 +3,7 @@
 
 <img id="portrait" src="assets/me.jpg" alt="placeholder photo">
 
-Hi! I’m Kat, from Lowell, MA. I’m a first-year student at MIT studying Urban Planning and Computer Science.
-
-I founded [Science and Us](https://scienceandus.org), a nonprofit that runs events and creates online resources to help high schoolers learn how to make science clear and engaging.
-
-I’m a founder of the [We Are America Project](https://weareamericaproject.com), working with 1300+ students in almost 25 states to share stories that spark conversations, led by the next generation, on what it means to be American.
-
-Above all else, I value integrity, authenticity, empathy, and surrounding yourself with people who lift each other up.
+I'm Ethan Benjamin. I am currently a Computer Science freshman at Carleton University in Ottawa, Canada. 
 
 ## 👋🏻 Say hi
 
